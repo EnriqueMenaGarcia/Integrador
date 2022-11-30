@@ -38,7 +38,6 @@
 <div id="misamigos">
 Mis registros:
 </div>
-</div>
 <diV id="cajavideos">
 <iframe width="727" height="409" src="https://www.youtube.com/embed/u-WkRMYhFb0" title="Desplegando un proyecto Spring-Boot en Heroku" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="727" height="409" src="https://www.youtube.com/embed/nm7gWyZvdVU" title="Javascript FullStack #14 (Final), Despliegue con Heroku y Mongodb Atlas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
